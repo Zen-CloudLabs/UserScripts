@@ -9,7 +9,6 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
-// @run-at       document-start
 // @license      MIT
 // @supportURL   https://github.com/Zen-CloudLabs/UserScripts/issues
 // @homepageURL  https://github.com/Zen-CloudLabs/UserScripts
